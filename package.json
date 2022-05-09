@@ -2,7 +2,7 @@
   "name": "logement",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://20.224.74.53:8080/job/coloc/",
+  "homepage":"http://20.224.74.53:80/coloc/",
   "dependencies": {
     "@chakra-ui/react": "^1.8.3",
     "@emotion/react": "^11.7.1",
